@@ -1,0 +1,30 @@
+body{
+margin:0;
+padding:0;
+}
+
+#im{
+margin:60px 50px;
+}
+#im:hover{
+width:400px;
+}
+#txt1{
+font-size: 17px  ;
+color      : black ;
+margin-left:70px;
+margin-bottom:20px;
+margin-top:70px;
+}
+#txt{
+font-weight: bold  ;
+color      : #17297A ;
+margin-left:100px;
+margin-bottom:20px;
+}
+#txt0{
+color      : #6A7AC2 ;
+margin-left:75px;
+}
+
+   

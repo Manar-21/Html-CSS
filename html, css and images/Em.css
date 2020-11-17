@@ -1,0 +1,13 @@
+body{
+background-image : url('banner-5.jpg');
+}
+#txt
+{
+color:red;
+}
+#Em{
+margin: 200px ;
+font-size  : 30px;
+font-weight: bold ;
+color      : #993333;
+}

@@ -1,0 +1,184 @@
+body{
+Background-image: url('') ;
+margin:0;
+padding:0;
+}
+h1{
+background-image:url("E:\PDF\Pratical\cs\k,hgbvh.jpg");
+font-size: 19px ;
+font-weight: bold ;
+color      : cooper black;
+}
+#y{
+font-size: 19px ;
+font-weight: bold ;
+color      : navy ;
+margin:50px 50px;
+text-decoration: none;
+}
+#a{
+font-weight: bold  ;
+color      : #30385C ;
+text-decoration: none;
+}
+#b{
+font-weight: bold  ;
+color      : #30385C ;
+text-decoration: none;
+}
+#c{
+font-weight: bold  ;
+color      : red ;
+text-decoration: none;
+}
+#d{
+font-weight: bold  ;
+color      : #30385C ;
+text-decoration: none;
+}
+#e{
+font-weight: bold  ;
+color      : #30385C ;
+text-decoration: none;
+}
+#f:hover{
+color:#85C1E9;
+}
+#k{
+margin-left:20px;
+}
+#l{
+color      : black ;
+margin-bottom:20px;
+margin-top:80px;
+border:3px solid ;
+border-radius:50px;
+padding: 5px 3px  ;
+text-decoration: none;
+}
+#l:hover{
+background:  #2874A6;
+width:400px;
+}
+.head{
+text-decoration: none;
+font-size: 18px  ;
+font-weight: bold  ;
+color      : #92B2D6 ;
+margin-left:880px;
+margin-bottom:20px;
+margin-top:10px;
+}
+.m{
+font-size: 20px;
+}
+.M{
+position : abslute ;
+overflow :hidden ;
+transition: all ls ease-in ;
+cursor : pointer ;
+}
+.M:hover img {
+transform : scale (1.4) ;
+transition: all ls ease-in ;
+filter : brightness (.5);
+}
+.M .m {
+position: absolute;
+}
+#img ul
+{
+list-style:none
+}
+#img ul li
+{
+float:left;
+}
+
+#ph{
+font-weight: bold  ;
+color      : #92B2D6 ;
+margin-left:10px;
+}
+#l1{
+border:1px solid ;
+}
+#N{
+margin-left:650px;
+text-decoration: none;
+font-size:25;
+font-weight:bold;
+color: #1D6065 ;
+border:3px solid black;
+border-radius:15px;
+width:85px;
+padding:5px;
+}
+#N:hover{
+background : #28A669;
+color : black;
+}
+#p1{
+font-size:xx-large;
+font-weight:bold;
+color:#2874A6;
+text-align:center;
+}
+#txt1{
+font-weight: bold;
+font-size:xx-large;
+color:#2874A6;
+margin-left:35%;
+}
+#txt2{
+font-weight: 20%;
+font-size:large;
+color:#2C3E50;
+margin-left:100px;
+}
+#p2{
+text-decoration: none;
+font-size: 25px ;
+font-weight: bold ;
+color:#003366;
+margin-top:50px;
+margin-left:80px;
+}
+#p5{
+text-decoration: none;
+font-size: 20px ;
+font-weight: bold ;
+color:#009999;
+margin-top:50px;
+margin-left:80px;
+}#p6{
+text-decoration: none;
+font-size: 20px ;
+font-weight: bold ;
+color:#009999;
+margin-top:50px;
+margin-left:80px;
+}#p7{
+text-decoration: none;
+font-size: 20px ;
+font-weight: bold ;
+color:#009999;
+margin-top:50px;
+margin-left:80px;
+}
+#p3{
+text-decoration: none;
+font-weight: bold ;
+font-size: 20px ;
+font-weight: bold ;
+color:#009999;
+margin-top:50px;
+margin-left:80px;
+}
+#img{
+height:"500" ;
+width:"1350"
+}
+.foot{
+display:inline;
+}

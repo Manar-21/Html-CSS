@@ -1,0 +1,19 @@
+body{
+margin:0;
+padding:o;
+}
+#txt{
+color :#2E4052;
+margin: 50px 100px;
+font-size:17px;
+}
+#p{
+color : black ;
+font-size:18px;
+font-weight:bold;
+text-decoration: none;
+}
+#p:hover{
+color:#348EAE;
+font-size: 25px;
+}
